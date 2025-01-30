@@ -9,4 +9,38 @@
 body {
     background-color: #FBFBFB;
 }
+.header-top{
+    padding-left: 15rem;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+}
+.grid-duo{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+#presentation-text{
+    padding-top: 10rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+#name-text{
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+}
+#name-carol{
+    color: #CD9296;
+}
+#presentation-boton{
+    width: 10rem;
+    height: 2rem;
+    border-radius: 10px;
+    border: none;
+    background-color: ;
+}
+#LogoCarolina{
+    width: 4rem;
 
+}
